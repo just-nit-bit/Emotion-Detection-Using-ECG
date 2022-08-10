@@ -1,0 +1,2 @@
+Self-annotation Single modal_Use and Self-annotation Multimodal_Use files contain few extra columns for exact labels of 
+4 classes (HVHA, HVLA, LVHA, LVLA) and 8 classes (Happy, Sad, Anger, Disgust, Mixed, Neutral, Surprise and Fear)

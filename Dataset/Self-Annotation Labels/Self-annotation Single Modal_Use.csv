@@ -1,0 +1,155 @@
+﻿Participant Id,Session Id,Video Id,Name,Age,Male,Valence level,Arousal level,Dominance level,Happy,Sad,Fear,Anger,Neutral,Disgust,Surprised,Familiarity Score,Emotion,Valence,Arousal,Four_Label
+1,1,1,M_W,21,Female,6,0,0,Moderate,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,5,Neutral,HV,LA,HVLA
+1,1,2,M_W,21,Female,2,4,2,VeryLow,High,Low,VeryHigh,VeryLow,Moderate,Moderate,Never watched,Anger,LV,LA,LVLA
+1,1,3,M_W,21,Female,7,6,6,Moderate,Moderate,VeryLow,Low,Moderate,VeryLow,Moderate,Never watched,Mixed,HV,HA,HVHA
+1,1,4,M_W,21,Female,7,3,4,Moderate,Moderate,VeryLow,VeryLow,Low,VeryLow,Low,Never watched,Mixed,HV,LA,HVLA
+1,1,5,M_W,21,Female,0,8,8,VeryLow,VeryLow,VeryLow,High,VeryLow,VeryHigh,High,Never watched,Disgust,LV,HA,LVHA
+1,1,6,M_W,21,Female,3,4,7,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,Moderate,VeryLow,Never watched,Anger,LV,LA,LVLA
+1,1,7,M_W,21,Female,0,4,6,VeryLow,VeryHigh,Moderate,VeryLow,VeryLow,Moderate,High,Never watched,Sad,LV,LA,LVLA
+2,1,1,M_G,19,Female,10,3,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+2,1,2,M_G,19,Female,1,4,0,VeryLow,VeryHigh,Moderate,Low,VeryLow,High,High,Never watched,Sad,LV,LA,LVLA
+2,1,3,M_G,19,Female,10,9,0,VeryHigh,VeryLow,Low,VeryLow,VeryLow,VeryLow,High,Never watched,Happy,HV,HA,HVHA
+2,1,4,M_G,19,Female,10,7,7,VeryHigh,VeryLow,Moderate,VeryLow,VeryLow,VeryLow,Moderate,Never watched,Happy,HV,HA,HVHA
+2,1,5,M_G,19,Female,0,9,0,VeryLow,Moderate,High,High,VeryLow,VeryHigh,Moderate,Never watched,Disgust,LV,HA,LVHA
+2,1,6,M_G,19,Female,1,8,0,VeryLow,Low,VeryLow,VeryHigh,VeryLow,Moderate,VeryLow,Never watched,Anger,LV,HA,LVHA
+2,1,7,M_G,19,Female,0,2,0,VeryLow,Low,High,Low,VeryLow,High,High,Never watched,Mixed,LV,LA,LVLA
+5,1,1,M_H,25,Male,9,0,0,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+5,1,2,M_H,25,Male,0,0,0,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Mixed,LV,LA,LVLA
+5,1,3,M_H,25,Male,0,0,0,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Mixed,LV,LA,LVLA
+5,1,4,M_H,25,Male,8,2,0,High,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+5,1,5,M_H,25,Male,0,0,0,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,High,VeryLow,Never watched,Disgust,LV,LA,LVLA
+5,1,6,M_H,25,Male,0,0,0,VeryLow,VeryLow,VeryLow,High,VeryLow,VeryLow,VeryLow,Never watched,Anger,LV,LA,LVLA
+5,1,7,M_H,25,Male,0,0,0,VeryLow,VeryLow,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Fear,LV,LA,LVLA
+6,1,1,M_Z,20,Male,4,0,0,Low,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,Never watched,Neutral,LV,LA,LVLA
+6,1,2,M_Z,20,Male,5,⁸,0,Low,Low,VeryLow,Low,VeryLow,VeryLow,VeryLow,Never watched,Mixed,LV,HA,LVHA
+6,1,3,M_Z,20,Male,8,0,2,High,VeryLow,VeryLow,VeryLow,Moderate,VeryLow,Low,1,Happy,HV,LA,HVLA
+6,1,4,M_Z,20,Male,5,0,6,Moderate,VeryLow,VeryLow,VeryLow,Low,VeryLow,Low,Never watched,Happy,LV,LA,LVLA
+6,1,5,M_Z,20,Male,3,2,0,VeryLow,Low,VeryLow,Low,Low,Moderate,VeryLow,Never watched,Disgust,LV,LA,LVLA
+6,1,6,M_Z,20,Male,1,1,0,VeryLow,VeryLow,VeryLow,High,VeryLow,VeryLow,VeryLow,Never watched,Anger,LV,LA,LVLA
+6,1,7,M_Z,20,Male,1,8,1,VeryLow,VeryLow,Low,VeryLow,Moderate,Low,Low,Never watched,Neutral,LV,HA,LVHA
+7,1,1,O_Z,20,Female,8,2,1,Moderate,VeryLow,VeryLow,VeryLow,Low,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+7,1,2,O_Z,20,Female,2,4,3,VeryLow,Moderate,Low,VeryLow,Low,VeryLow,VeryLow,Never watched,Sad,LV,LA,LVLA
+7,1,3,O_Z,20,Female,4,1,9,VeryLow,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,Never watched,Neutral,LV,LA,LVLA
+7,1,4,O_Z,20,Female,8,0,7,High,VeryLow,VeryLow,VeryLow,Low,VeryLow,Low,Never watched,Happy,HV,LA,HVLA
+7,1,5,O_Z,20,Female,2,7,7,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryHigh,Low,Never watched,Disgust,LV,HA,LVHA
+7,1,6,O_Z,20,Female,2,9,2,VeryLow,VeryLow,VeryLow,Moderate,Low,Low,VeryLow,Never watched,Anger,LV,HA,LVHA
+7,1,7,O_Z,20,Female,0,6,2,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,Low,Low,Never watched,Fear,LV,HA,LVHA
+8,1,1,R_M,12,Male,7,0,0,High,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Low,Never watched,Happy,HV,LA,HVLA
+8,1,2,R_M,12,Male,2,3,0,VeryLow,Moderate,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Mixed,LV,LA,LVLA
+8,1,3,R_M,12,Male,4,2,4,VeryLow,VeryLow,VeryLow,Low,Low,VeryLow,VeryLow,,Mixed,LV,LA,LVLA
+8,1,4,R_M,12,Male,9,0,9,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,,Happy,HV,LA,HVLA
+8,1,5,R_M,12,Male,0,6,0,VeryLow,Moderate,Moderate,Moderate,VeryLow,VeryLow,VeryLow,,Mixed,LV,HA,LVHA
+8,1,6,R_M,12,Male,5,4,0,VeryLow,Moderate,VeryLow,Moderate,VeryLow,VeryLow,VeryLow,,Mixed,LV,LA,LVLA
+8,1,7,R_M,12,Male,2,4,0,VeryLow,Moderate,High,Low,VeryLow,VeryLow,VeryLow,,Fear,LV,LA,LVLA
+9,1,1,H_M,13,Male,6,0,5,Moderate,VeryLow,VeryLow,Low,VeryLow,Low,VeryLow,Never watched,Happy,HV,LA,HVLA
+9,1,2,H_M,13,Male,6,3,0,Low,High,VeryLow,Low,Low,Moderate,Low,Never watched,Sad,HV,LA,HVLA
+9,1,3,H_M,13,Male,3,3,4,High,VeryLow,VeryLow,VeryLow,Low,VeryLow,Low,Never watched,Happy,LV,LA,LVLA
+9,1,4,H_M,13,Male,7,0,7,VeryHigh,VeryLow,Low,VeryLow,Low,Low,Low,Never watched,Happy,HV,LA,HVLA
+9,1,5,H_M,13,Male,2,3,3,VeryLow,VeryHigh,VeryHigh,Moderate,VeryLow,VeryLow,VeryLow,Never watched,Mixed,LV,LA,LVLA
+9,1,6,H_M,13,Male,8,⁸,2,High,VeryLow,VeryLow,VeryLow,Moderate,Low,Low,Never watched,Happy,HV,HA,HVHA
+9,1,7,H_M,13,Male,3,3,8,VeryLow,High,VeryHigh,Low,VeryLow,VeryLow,Low,Never watched,Fear,LV,LA,LVLA
+10,1,1,A_U,25,Female,7,0,4,High,Low,VeryLow,VeryLow,Moderate,VeryLow,Low,5,Happy,HV,LA,HVLA
+10,1,2,A_U,25,Female,3,4,5,Low,High,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Sad,LV,LA,LVLA
+10,1,3,A_U,25,Female,5,8,5,VeryLow,VeryLow,VeryLow,VeryLow,Moderate,VeryLow,VeryLow,Never watched,Neutral,LV,HA,LVHA
+10,1,4,A_U,25,Female,7,4,4,Low,VeryLow,VeryLow,VeryLow,Low,VeryLow,Low,Never watched,Mixed,HV,LA,HVLA
+10,1,5,A_U,25,Female,2,6,6,VeryLow,Low,Low,VeryLow,VeryLow,High,VeryLow,Never watched,Disgust,LV,HA,LVHA
+10,1,6,A_U,25,Female,4,8,4,VeryLow,VeryLow,VeryLow,Low,Low,VeryLow,VeryLow,Never watched,Mixed,LV,HA,LVHA
+10,1,7,A_U,25,Female,1,7,5,VeryLow,Moderate,High,VeryLow,VeryLow,Moderate,VeryLow,Never watched,Fear,LV,HA,LVHA
+11,1,1,As_D,14,Male,10,0,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Low,Never watched,Happy,HV,LA,HVLA
+11,1,2,As_D,14,Male,4,7,0,VeryLow,High,VeryLow,Moderate,VeryLow,VeryLow,VeryLow,Never watched,Sad,LV,HA,LVHA
+11,1,3,As_D,14,Male,7,0,8,Low,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+11,1,4,As_D,14,Male,10,0,9,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Moderate,Never watched,Happy,HV,LA,HVLA
+11,1,5,As_D,14,Male,0,9,0,VeryLow,VeryHigh,High,VeryHigh,VeryLow,VeryHigh,Low,Never watched,Mixed,LV,HA,LVHA
+11,1,6,As_D,14,Male,4,0,1,VeryLow,VeryLow,VeryLow,Low,VeryHigh,VeryLow,VeryLow,Never watched,Neutral,LV,LA,LVLA
+11,1,7,As_D,14,Male,10,0,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+12,1,1,Ah_D,14,Male,9,0,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+12,1,2,Ah_D,14,Male,1,4,0,VeryLow,VeryHigh,VeryLow,High,Low,VeryLow,VeryLow,Never watched,Sad,LV,LA,LVLA
+12,1,3,Ah_D,14,Male,9,0,9,VeryHigh,VeryLow,Low,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+12,1,4,Ah_D,14,Male,4,7,0,VeryHigh,VeryLow,High,Moderate,VeryLow,VeryLow,VeryLow,Never watched,Happy,LV,HA,LVHA
+12,1,5,Ah_D,14,Male,0,9,0,VeryLow,VeryLow,VeryLow,High,VeryLow,VeryHigh,VeryLow,Never watched,Disgust,LV,HA,LVHA
+12,1,6,Ah_D,14,Male,0,9,0,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,VeryLow,Never watched,Anger,LV,HA,LVHA
+12,1,7,Ah_D,14,Male,0,0,0,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Fear,LV,LA,LVLA
+13,1,2,M_P,18,Female,8,2,0,VeryLow,High,VeryLow,Moderate,VeryLow,VeryLow,VeryLow,1,Sad,HV,LA,HVLA
+13,1,1,M_P,18,Female,10,0,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+13,1,3,M_P,18,Female,9,4,4,High,VeryLow,VeryLow,VeryLow,Moderate,VeryLow,VeryLow,1,Happy,HV,LA,HVLA
+13,1,4,M_P,18,Female,9,8,0,High,VeryLow,VeryLow,VeryLow,Low,VeryLow,VeryLow,1,Happy,HV,HA,HVHA
+13,1,5,M_P,18,Female,0,9,0,VeryLow,VeryLow,VeryLow,Moderate,VeryLow,VeryHigh,VeryLow,Never watched,Disgust,LV,HA,LVHA
+13,1,6,M_P,18,Female,5,0,0,VeryLow,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,Never watched,Neutral,LV,LA,LVLA
+13,1,7,M_P,18,Female,5,4,0,VeryLow,VeryLow,Low,VeryLow,High,VeryLow,VeryLow,Never watched,Neutral,LV,LA,LVLA
+3,1,1,U_S,18,Male,5,4,5,VeryLow,VeryLow,VeryLow,VeryLow,High,Low,VeryLow,Never watched,Neutral,LV,LA,LVLA
+3,1,2,U_S,18,Male,7,2,4,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+3,1,3,U_S,18,Male,4,2,4,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,LV,LA,LVLA
+3,1,4,U_S,18,Male,7,2,4,Moderate,VeryLow,VeryLow,VeryLow,Low,VeryLow,Low,Never watched,Happy,HV,LA,HVLA
+3,1,5,U_S,18,Male,0,9,0,VeryLow,Low,High,VeryLow,Low,VeryHigh,High,Never watched,Disgust,LV,HA,LVHA
+3,1,6,U_S,18,Male,0,3,0,VeryLow,Low,VeryLow,Moderate,VeryLow,Moderate,VeryLow,Never watched,Mixed,LV,LA,LVLA
+3,1,7,U_S,18,Male,1,9,0,VeryLow,Moderate,High,VeryLow,VeryLow,Moderate,Moderate,Never watched,Fear,LV,HA,LVHA
+4,1,1,Z_N,24,Male,7,3,2,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Low,8,Happy,HV,LA,HVLA
+4,1,2,Z_N,24,Male,8,2,6,High,Moderate,Low,VeryLow,VeryLow,VeryLow,High,1,Mixed,HV,LA,HVLA
+4,1,3,Z_N,24,Male,5,0,9,VeryLow,Moderate,Low,VeryLow,Low,Low,High,Never watched,Surprise,LV,LA,LVLA
+4,1,4,Z_N,24,Male,5,3,7,VeryLow,VeryLow,High,VeryLow,Low,Low,High,Never watched,Mixed,LV,LA,LVLA
+4,1,5,Z_N,24,Male,2,8,6,VeryLow,High,High,Moderate,VeryLow,High,High,Never watched,Mixed,LV,HA,LVHA
+4,1,6,Z_N,24,Male,1,6,5,VeryLow,High,Low,VeryHigh,VeryLow,VeryHigh,Moderate,Never watched,Mixed,LV,HA,LVHA
+4,1,7,Z_N,24,Male,2,8,4,VeryLow,High,VeryHigh,Moderate,VeryLow,High,VeryHigh,Never watched,Mixed,LV,HA,LVHA
+2,2,1,M_G,19,Female,10,4,0,VeryHigh,VeryLow,VeryLow,VeryLow,Low,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+2,2,2,M_G,19,Female,5,⁸,1,Low,Moderate,High,Low,VeryHigh,Low,VeryHigh,Never watched,Mixed,LV,HA,LVHA
+2,2,3,M_G,19,Female,5,0,0,Low,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,Never watched,Neutral,LV,LA,LVLA
+2,2,4,M_G,19,Female,10,9,0,VeryHigh,VeryLow,High,VeryLow,VeryLow,VeryLow,High,Never watched,Happy,HV,HA,HVHA
+2,2,5,M_G,19,Female,0,9,0,VeryLow,Moderate,Moderate,High,VeryLow,VeryHigh,Low,Never watched,Disgust,LV,HA,LVHA
+2,2,6,M_G,19,Female,0,7,0,VeryLow,VeryHigh,High,Moderate,VeryLow,VeryHigh,High,Never watched,Mixed,LV,HA,LVHA
+2,2,7,M_G,19,Female,0,9,0,VeryLow,Moderate,VeryHigh,VeryLow,VeryLow,High,VeryHigh,Never watched,Mixed,LV,HA,LVHA
+8,2,1,R_M,12,Male,6,1,0,Low,VeryLow,VeryLow,Low,VeryLow,VeryLow,VeryLow,Never watched,Mixed,HV,LA,HVLA
+8,2,2,R_M,12,Male,7,2,0,Low,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Low,Never watched,Mixed,HV,LA,HVLA
+8,2,3,R_M,12,Male,4,3,0,VeryLow,Moderate,VeryLow,Low,VeryLow,VeryLow,VeryLow,Never watched,Sad,LV,LA,LVLA
+8,2,4,R_M,12,Male,10,0,9,VeryHigh,VeryLow,Low,VeryLow,VeryLow,VeryLow,Low,Never watched,Happy,HV,LA,HVLA
+8,2,5,R_M,12,Male,4,3,0,VeryLow,Low,Low,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Mixed,LV,LA,LVLA
+8,2,6,R_M,12,Male,2,4,0,VeryLow,Moderate,VeryLow,Low,VeryLow,VeryLow,VeryLow,Never watched,Sad,LV,LA,LVLA
+8,2,7,R_M,12,Male,6,0,0,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+9,2,1,H_M,13,Male,8,4,8,High,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Low,Never watched,Happy,HV,LA,HVLA
+9,2,2,H_M,13,Male,5,6,8,Low,Moderate,Low,VeryLow,VeryLow,Low,Low,Never watched,Sad,LV,HA,LVHA
+9,2,3,H_M,13,Male,2,0,3,Low,VeryLow,VeryLow,VeryLow,Moderate,VeryLow,VeryLow,Never watched,Neutral,LV,LA,LVLA
+9,2,4,H_M,13,Male,8,3,8,High,VeryLow,Moderate,VeryLow,VeryLow,VeryLow,Low,Never watched,Happy,HV,LA,HVLA
+9,2,5,H_M,13,Male,3,8,6,VeryLow,High,VeryHigh,Moderate,VeryLow,High,VeryLow,Never watched,Fear,LV,HA,LVHA
+9,2,6,H_M,13,Male,2,8,6,VeryLow,High,Low,High,VeryLow,Low,VeryLow,Never watched,Mixed,LV,HA,LVHA
+9,2,7,H_M,13,Male,7,8,6,VeryLow,High,VeryHigh,VeryHigh,VeryLow,VeryHigh,VeryLow,Never watched,Mixed,HV,HA,HVHA
+11,2,1,As_D,14,Male,10,0,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Low,Never watched,Happy,HV,LA,HVLA
+11,2,2,As_D,14,Male,4,8,0,VeryLow,Low,VeryLow,Low,Low,VeryLow,Low,Never watched,Mixed,LV,HA,LVHA
+11,2,3,As_D,14,Male,4,4,4,VeryLow,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,Never watched,Neutral,LV,LA,LVLA
+11,2,4,As_D,14,Male,8,0,9,Low,VeryLow,Low,VeryLow,VeryLow,VeryLow,Low,Never watched,Mixed,HV,LA,HVLA
+11,2,5,As_D,14,Male,0,0,0,VeryLow,Low,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,Never watched,Disgust,LV,LA,LVLA
+11,2,6,As_D,14,Male,0,4,0,VeryLow,High,Low,Moderate,VeryLow,VeryLow,Moderate,Never watched,Sad,LV,LA,LVLA
+11,2,7,As_D,14,Male,10,0,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+12,2,1,Ah_D,18,Male,9,1,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+12,2,2,Ah_D,18,Male,0,6,0,VeryLow,VeryHigh,VeryLow,Moderate,VeryLow,VeryLow,VeryLow,Never watched,Sad,LV,HA,LVHA
+12,2,3,Ah_D,18,Male,10,0,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+12,2,4,Ah_D,18,Male,10,0,9,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+12,2,5,Ah_D,18,Male,0,2,0,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,Never watched,Disgust,LV,LA,LVLA
+12,2,6,Ah_D,18,Male,0,9,0,VeryLow,VeryHigh,VeryLow,VeryHigh,VeryLow,VeryLow,VeryLow,Never watched,Mixed,LV,HA,LVHA
+12,2,7,Ah_D,18,Male,0,0,0,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Fear,LV,LA,LVLA
+8,3,1,R_M,12,Male,10,0,9,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+8,3,2,R_M,12,Male,0,6,0,VeryLow,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Sad,LV,HA,LVHA
+8,3,3,R_M,12,Male,0,9,0,VeryLow,VeryHigh,VeryLow,VeryLow,High,VeryLow,VeryLow,Never watched,Sad,LV,HA,LVHA
+8,3,4,R_M,12,Male,10,0,9,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryHigh,Never watched,Mixed,HV,LA,HVLA
+8,3,5,R_M,12,Male,10,0,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+8,3,6,R_M,12,Male,0,9,0,VeryLow,VeryHigh,VeryLow,VeryHigh,VeryLow,VeryLow,VeryLow,Never watched,Mixed,LV,HA,LVHA
+8,3,7,R_M,12,Male,0,0,0,VeryLow,VeryHigh,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Sad,LV,LA,LVLA
+9,3,1,H_M,13,Male,9,2,8,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Low,Never watched,Happy,HV,LA,HVLA
+9,3,2,H_M,13,Male,3,8,2,VeryLow,Moderate,VeryLow,High,VeryLow,Low,VeryLow,Never watched,Anger,LV,HA,LVHA
+9,3,3,H_M,13,Male,4,1,2,Low,VeryLow,VeryLow,VeryLow,Moderate,VeryLow,VeryLow,Never watched,Neutral,LV,LA,LVLA
+9,3,4,H_M,13,Male,8,1,8,High,Low,High,VeryLow,VeryLow,Low,Moderate,Never watched,Mixed,HV,LA,HVLA
+9,3,5,H_M,13,Male,3,3,1,VeryLow,Moderate,Low,VeryLow,Low,VeryLow,Low,Never watched,Sad,LV,LA,LVLA
+9,3,6,H_M,13,Male,2,2,6,VeryLow,High,Low,Low,VeryLow,Moderate,VeryLow,Never watched,Sad,LV,LA,LVLA
+9,3,7,H_M,13,Male,2,7,2,VeryLow,VeryHigh,Moderate,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Sad,LV,HA,LVHA
+11,3,1,As_D,14,Male,10,0,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+11,3,2,As_D,14,Male,0,9,0,VeryLow,VeryHigh,VeryLow,High,VeryLow,VeryLow,VeryLow,Never watched,Sad,LV,HA,LVHA
+11,3,3,As_D,14,Male,0,7,7,VeryLow,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,Never watched,Neutral,LV,HA,LVHA
+11,3,4,As_D,14,Male,9,0,7,VeryLow,VeryLow,Low,VeryLow,VeryLow,VeryLow,VeryHigh,Never watched,Surprise,HV,LA,HVLA
+11,3,5,As_D,14,Male,1,9,9,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,Moderate,VeryLow,Never watched,Anger,LV,HA,LVHA
+11,3,6,As_D,14,Male,0,9,9,VeryLow,VeryHigh,VeryLow,VeryHigh,VeryLow,VeryLow,VeryLow,Never watched,Mixed,LV,HA,LVHA
+11,3,7,As_D,14,Male,10,0,9,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Low,Never watched,Happy,HV,LA,HVLA
+12,3,1,Ah_D,14,Male,9,0,0,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+12,3,2,Ah_D,14,Male,1,4,0,VeryLow,VeryHigh,VeryLow,High,Low,VeryLow,VeryLow,Never watched,Sad,LV,LA,LVLA
+12,3,3,Ah_D,14,Male,9,0,9,VeryHigh,VeryLow,Low,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Happy,HV,LA,HVLA
+12,3,4,Ah_D,14,Male,4,7,0,VeryHigh,VeryLow,High,Moderate,VeryLow,VeryLow,VeryLow,Never watched,Happy,LV,HA,LVHA
+12,3,5,Ah_D,14,Male,0,9,0,VeryLow,VeryLow,VeryLow,High,VeryLow,VeryHigh,VeryLow,Never watched,Disgust,LV,HA,LVHA
+12,3,6,Ah_D,14,Male,0,9,0,VeryLow,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,VeryLow,Never watched,Anger,LV,HA,LVHA
+12,3,7,Ah_D,14,Male,0,0,0,VeryLow,VeryLow,VeryHigh,VeryLow,VeryLow,VeryLow,VeryLow,Never watched,Fear,LV,LA,LVLA
