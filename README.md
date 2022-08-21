@@ -11,4 +11,9 @@ __Dataset Details__
 - From: Mendeley Data
 - URL: https://data.mendeley.com/datasets/g2p7vwxyn2/4
 
-*Note*: This project was only limited to the ECG readings, the GSR data was not used.
+*Note*: This project was only limited to the ECG readings of individuals with cognitive disorders, the GSR data was not used.
+
+**Future Improvements**
+- Use more datasets with accurate ECG readings
+- Use deep learning models
+- Solve overfitting issues
