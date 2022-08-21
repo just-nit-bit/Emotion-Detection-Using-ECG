@@ -1,4 +1,4 @@
-<h1>***Emotion-Detection-Using-ECG***</h1> <br>
+<h1>***Emotion Detection Using ECG***</h1> <br>
 
 __Project Details__
 - Conducted data preprocessing
